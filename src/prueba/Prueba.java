@@ -14,6 +14,7 @@ public class Prueba {
         System.out.println ("Entrada recibida por teclado es: \"" + entradaTeclado +"\"");
 		
         entradaEscaner.close();
+        //comentss
 	}
 
 }
